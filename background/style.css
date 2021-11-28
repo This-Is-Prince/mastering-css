@@ -16,5 +16,7 @@ body {
   /* background-size: auto; */
   /* background-size: 500px 500px; */
 
-  background-image: linear-gradient(0deg, blue, green 40%, red);
+  /* background-image: linear-gradient(0deg, blue, green 40%, red 100%); */
+  /* background-image: linear-gradient(0.25turn, red, 20%, blue); */
+  background-image: linear-gradient(to top right, red 0 50%, blue 50% 100%);
 }
